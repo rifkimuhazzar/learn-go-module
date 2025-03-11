@@ -1,5 +1,5 @@
 package learngomodule
 
 func SayHello(name string) string {
-	return "Hello " + name + " 10"
+	return "Hello " + name + " 100"
 }
